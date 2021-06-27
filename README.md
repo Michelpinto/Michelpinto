@@ -6,12 +6,12 @@
 
 Frontend Development
 
-Html
-css/sass
-react
-next.js
-material ui
-styled-components
+- Html
+- css/sass
+- react
+- next.js
+- material ui
+- styled-components
 
 
 
