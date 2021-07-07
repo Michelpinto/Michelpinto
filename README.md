@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Michelpinto
 - 👀 I’m interested in getting better and develop new skills.
-- 🌱 I’m currently working on projects to help me sharpen my skills day by day.
+- 🌱 I’m currently working on projects and learning TypeScript.
 - 💞️ I’m looking to collaborate on many projects and learn some new stuff.
 - 📫 How to reach me, you can drop a dm on my twitter account @blvckswvg.
 
