@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Michel Pinto
+### 👋 Hi, I’m Michel Pinto
 - 👀 I’m interested in getting better and develop new skills.
 - 🌱 I’m currently working on projects and learning TypeScript.
 - 💞️ I’m looking to collaborate on many projects and learn some new stuff.
