@@ -4,6 +4,11 @@
 - 💞️ I’m looking to collaborate on many projects and learn some new stuff.
 - 📫 How to reach me, you can drop a dm on my twitter account @blvckswvg.
 
+### Goals for 2021
+
+- 👨🏾‍💻 Get my first job as a frontend web developer.
+- 🪄 Become 1% better than I was yesterday, because consistency is 🔑
+
 
 
 
