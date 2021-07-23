@@ -1,13 +1,14 @@
 ### 👋 Hi, I’m Michel Pinto
 - 👀 I’m interested in getting better and develop new skills.
 - 🌱 I’m currently working on projects and learning TypeScript.
-- 💞️ I’m looking to collaborate on many projects and learn some new stuff.
-- 📫 How to reach me, you can drop a dm on my twitter account @blvckswvg.
+- 💞️ I’m looking to collaborate on many projects and tackle real world problems with code.
+- 🚀 Constantly building and learning cool stuff.
 
 ### Goals for 2021
 
 - 👨🏾‍💻 Get my first job as a frontend web developer.
 - 🪄 Become 1% better than I was yesterday, because consistency is 🔑
+- 📓 Start writting blogs
 
 
 
