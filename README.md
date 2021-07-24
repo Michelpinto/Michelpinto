@@ -12,6 +12,18 @@
 - 🪄 Become 1% better than I was yesterday, because consistency is 🔑
 - 📓 Start writting blogs
 
+### Languages and Tools: 
+
+ - 🚀 HTML | CSS | SASS | JS | Typescript | React.js | Next.js
+ - 👨🏾‍🎨 Material-UI | Styled-Components
+ - 👨🏾‍💻 Figma | VScode | Git
+ 
+ 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichelPinto&show_icons=true&theme=radical)
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichelPinto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
