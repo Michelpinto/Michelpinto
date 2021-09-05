@@ -7,7 +7,7 @@
 
 ### Goals for 2021
 
-- 👨🏾‍💻 Get my first job as a frontend web developer.
+- 👨🏾‍💻 Get my first job as a frontend web developer. ✅
 - 🌍 Learn Solidity development and smart contracts.
 - 🪄 Become 1% better than I was yesterday, because consistency is 🔑
 - 📓 Start writting blogs
