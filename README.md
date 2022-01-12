@@ -5,16 +5,15 @@
 - 💞️ I’m looking to collaborate on many projects and tackle real world problems with code.
 - 🚀 Constantly building and learning cool stuff.
 
-### Goals for 2021
+### Goals for 2022
 
-- 👨🏾‍💻 Get my first job as a frontend web developer. ✅
-- 🌍 Learn Solidity development and smart contracts.
+- 🌍 Learn Solidity development and smart contracts. ⏳
 - 🪄 Become 1% better than I was yesterday, because consistency is 🔑
-- 📓 Start writting blogs
+- 🚀 Start working on web3 community
 
 ### Languages and Tools: 
 
- - 🚀 HTML | CSS | SASS | JS | Typescript | React.js | Next.js
+ - 🚀 HTML | CSS | SASS | JS | Typescript | React.js | Next.js | React Native | Solidity
  - 👨🏾‍🎨 Material-UI | Styled-Components
  - 👨🏾‍💻 Figma | VScode | Git
  
