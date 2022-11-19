@@ -11,7 +11,7 @@
 
 ### Languages and Tools: 
 
- - 🚀 HTML | CSS | SASS | JS | Typescript | React.js | Next.js | React Native | Solidity | GraphQl | Cypress
+ - 🚀 Typescript | React.js | Next.js | React Native | Solidity | GraphQl | Cypress
  - 👨🏾‍🎨 Material-UI | Styled-Components
  - 👨🏾‍💻 Figma | VScode | Git
  
