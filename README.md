@@ -6,7 +6,7 @@
 
 ### Goals for 2022
 
-- 🌍 Learn Solidity development and smart contracts. ⏳
+- 🌍 Learn Nodejs, Solidity development and smart contracts. ⏳
 - 🪄 Become 1% better than I was yesterday, because consistency is 🔑
 
 ### Languages and Tools: 
