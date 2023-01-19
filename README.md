@@ -4,10 +4,11 @@
 - 💞️ I’m looking to collaborate on many projects and tackle real world problems with code.
 - 🚀 Constantly building and learning cool stuff.
 
-### Goals for 2022
+### Goals for 2023
 
 - 🌍 Learn Nodejs, Solidity development and smart contracts. ⏳
 - 🪄 Become 1% better than I was yesterday, because consistency is 🔑
+- 🏗️ Build a project every month of the year
 
 ### Languages and Tools: 
 
