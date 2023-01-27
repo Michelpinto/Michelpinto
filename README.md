@@ -8,7 +8,7 @@
 
 - 🌍 Learn Nodejs, Solidity development and smart contracts. ⏳
 - 🪄 Become 1% better than I was yesterday, because consistency is 🔑
-- 🏗️ Build a project every month of the year
+- 🏗️ Build a project every month of the year 1/12 ✅
 
 ### Languages and Tools: 
 
