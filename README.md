@@ -1,14 +1,9 @@
-### 👋 Hi, I’m Michel Pinto a Frontend Web Developer.
+### 👋 Hi, I’m Michel Pinto a React Frontend Developer.
 
 - 👀 I’m interested in getting better and develop new skills.
 - 💞️ I’m looking to collaborate on many projects and tackle real world problems with code.
 - 🚀 Constantly building and learning cool stuff.
 
-### Goals for 2023
-
-- 🌍 Learn Nodejs, Solidity development and smart contracts. ⏳
-- 🪄 Become 1% better than I was yesterday, because consistency is 🔑
-- 🏗️ Build a project every month of the year 3/12 ✅
 
 ### Languages and Tools: 
 
