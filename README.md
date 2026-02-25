@@ -7,8 +7,8 @@
 
 ### Languages and Tools: 
 
- - 🚀 Typescript | React.js | Next.js | React Native | Solidity | GraphQl | Cypress
- - 👨🏾‍🎨 Material-UI | Styled-Components
+ - 🚀 Typescript | React.js | Next.js | React Native | Solidity | GraphQl | Cypress | SwiftUI
+ - 👨🏾‍🎨 Material-UI | Styled-Components | tailwind
  - 👨🏾‍💻 Figma | VScode | Git
  
  
